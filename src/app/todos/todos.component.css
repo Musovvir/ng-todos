@@ -1,0 +1,22 @@
+.task-checkbox {
+  width: 40px;
+}
+.task-star {
+  width: 50px;
+  color: orange;
+  cursor: pointer;
+}
+.task-title {
+  flex: 2;
+}
+.task-category {
+  flex: 1;
+  text-align: right;
+}
+.task-important {
+  background-color: #70f58e;
+}
+.task-completed {
+  text-decoration: line-through;
+  opacity: .6;
+}
